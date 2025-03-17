@@ -1,3 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+#espaco{
+    font-family: "Audiowide";
+    font-size: 5em;
+    text-align: center;
+    background-image: url(./assets/image/fundoReturn.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+}
+
+h2{
+    font-family: "Audiowide";
+    font-size: 2em;
+}
+
+#grayscaleImg{
+filter: grayscale(100%);
+transition: 0.5s ease-in-out;
+}
+
+#grayscaleImg:hover {
+filter: grayscale(0%);
+}
+
+
 /*Backgroud Image Index*/
 @keyframes imageAnimation {
     0% { background-position: 0% 20%; }
@@ -8,7 +36,7 @@
 .containerBodyIndex{
     color: white;
     background-image: linear-gradient(45deg, #4c4c4ebb, transparent),
-                        url('./assets/image/pexels-franco-monsalvo-252430633-13125178.jpg');
+                        url('./assets/image/backgroudHome.jpg');
     background-size: 200% 200%;
     background-repeat: no-repeat;
     background-position: center;
