@@ -2,6 +2,8 @@
 
 **Fusion Frames** é um projeto web desenvolvido com foco em design moderno, animações fluidas e interações visuais responsivas. O objetivo principal é demonstrar domínio em **HTML**, **CSS** e **JavaScript** aplicados à construção de interfaces atrativas e funcionais.
 
+📍 *Este projeto está em desenvolvimento contínuo.*
+
 ---
 
 ## 🚀 Deploy
